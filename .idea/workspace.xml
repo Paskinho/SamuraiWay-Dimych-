@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f782e14-1ce7-409a-a9d1-0c5aa571b786" name="Changes" comment="Добавлены файлы, отредактированы app.js, app.css">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Myposts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Myposts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "K:/Downloads/SAMURAI-WAY/project-01/src/components",
+    "last_opened_file_path": "K:/Downloads/SAMURAI-WAY/project-01/src/components/Profile/MyPosts/Post",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,10 +50,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\Downloads\SAMURAI-WAY\project-01\src\components\Profile\MyPosts\Post" />
       <recent name="K:\Downloads\SAMURAI-WAY\project-01\src\components" />
       <recent name="K:\Downloads\SAMURAI-WAY\project-01\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\Downloads\SAMURAI-WAY\project-01\src\components\Profile\MyPosts" />
       <recent name="K:\Downloads\SAMURAI-WAY\project-01\src\components\Profile" />
       <recent name="K:\Downloads\SAMURAI-WAY\project-01\src\components\Navbar" />
       <recent name="K:\Downloads\SAMURAI-WAY\project-01\src\components\Header" />
@@ -73,8 +76,23 @@
       <workItem from="1665664349478" duration="595000" />
       <workItem from="1665665387673" duration="1650000" />
       <workItem from="1665726820657" duration="2641000" />
-      <workItem from="1665731099909" duration="7658000" />
+      <workItem from="1665731099909" duration="11774000" />
     </task>
+    <task id="LOCAL-00001" summary="Добавлены файлы, отредактированы app.js, app.css">
+      <created>1665741654694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665741654695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавлены файлы, отредактированы app.js, app.css">
+      <created>1665743574845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665743574845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +108,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавлены файлы, отредактированы app.js, app.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены файлы, отредактированы app.js, app.css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
